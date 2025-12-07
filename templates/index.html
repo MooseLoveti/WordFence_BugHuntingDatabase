@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WordFence BugBounty Logs</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="page">
+        <header class="hero">
+            <h1>WordFence BugBounty Logs</h1>
+            <span class="hero-credit">Created by @mooselove0308</span>
+        </header>
+    
+        <form class="sort-form" method="get">
+            <label>Sort by:
+                <select id="sort" name="sort" onchange="this.form.submit()">
+                <option value="installs" {{ 'selected' if sort == 'installs' }}>Install Count</option>
+                <option value="bounty"   {{ 'selected' if sort == 'bounty' }}>Bounty</option>
+                <option value="newest"   {{ 'selected' if sort == 'newest' }}>Published Date</option>
+                </select>
+            </label>
+            <input type="search" name="q" value="{{ q or '' }}" placeholder="Search keyword">
+            <button type="submit">Search</button>
+        </form>
+
+        <ul id="vuln-list" class="vuln-list">
+            {% for cve in insert_something %}
+                <li class="vuln-card">
+                    {% if cve.url %}
+                    <a href="{{ cve.url }}">
+                    {% endif %}
+                    <p class="vuln-title">{{ cve.title }}</p>
+                    <p class="vuln-install">
+                    ActiveInstalls:
+                    {% if cve.install > 10000 %}
+                        <span class="install-number" style="color: red;">{{ cve.install }}</span>
+                    {% elif cve.install > 1000 %}
+                        <span class="install-number" style="color: skyblue;">{{ cve.install }}</span>
+                    {% elif 1000 > cve.install > 1 %}
+                        <span class="install-number" style="color: green;">{{ cve.install }}</span>
+                    {% else %}
+                        <span class="install-number" style="color: black;">Unknown</span>
+                    {% endif %}
+                    <br>Estimated Bounty:
+                    {% if cve.bounty > 1000 %}
+                        <span class="install-number" style="color: red;">{{ cve.bounty }}</span>
+                    {% elif cve.bounty > 100 %}
+                        <span class="install-number" style="color: skyblue;">{{ cve.bounty }}</span>
+                    {% elif 100 > cve.bounty > 1 %}
+                        <span class="install-number" style="color: green;">{{ cve.bounty }}</span>
+                    {% else %}
+                        <span class="install-number" style="color: black;">Out of Scope</span>
+                    {% endif %}
+                    <br>Published Date:
+                        <span>{{ cve.newest.strftime('%Y-%m-%d') if cve.newest }}</span>
+                </p>
+                    {% if cve.url %}
+                    </a>
+                    {% endif %}
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+</html>
+

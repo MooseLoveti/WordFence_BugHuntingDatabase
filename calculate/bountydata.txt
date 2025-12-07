@@ -1,0 +1,1170 @@
+﻿Stored Cross-Site Scripting <25 No Authentication 0
+Stored Cross-Site Scripting <25 Low-Level Authentication 0
+Stored Cross-Site Scripting <25 Mid-Level Authentication 0
+Stored Cross-Site Scripting <25 High-Level Authentication 0
+Stored Cross-Site Scripting 25-499 No Authentication 0
+Stored Cross-Site Scripting 25-499 Low-Level Authentication 0
+Stored Cross-Site Scripting 25-499 Mid-Level Authentication 0
+Stored Cross-Site Scripting 25-499 High-Level Authentication 0
+Stored Cross-Site Scripting 500-999 No Authentication 12
+Stored Cross-Site Scripting 500-999 Low-Level Authentication 8
+Stored Cross-Site Scripting 500-999 Mid-Level Authentication 0
+Stored Cross-Site Scripting 500-999 High-Level Authentication 0
+Stored Cross-Site Scripting 1000-4999 No Authentication 40
+Stored Cross-Site Scripting 1000-4999 Low-Level Authentication 24
+Stored Cross-Site Scripting 1000-4999 Mid-Level Authentication 0
+Stored Cross-Site Scripting 1000-4999 High-Level Authentication 0
+Stored Cross-Site Scripting 5000-9999 No Authentication 56
+Stored Cross-Site Scripting 5000-9999 Low-Level Authentication 34
+Stored Cross-Site Scripting 5000-9999 Mid-Level Authentication 0
+Stored Cross-Site Scripting 5000-9999 High-Level Authentication 0
+Stored Cross-Site Scripting 10000-14999 No Authentication 80
+Stored Cross-Site Scripting 10000-14999 Low-Level Authentication 48
+Stored Cross-Site Scripting 10000-14999 Mid-Level Authentication 0
+Stored Cross-Site Scripting 10000-14999 High-Level Authentication 0
+Stored Cross-Site Scripting 15000-29999 No Authentication 120
+Stored Cross-Site Scripting 15000-29999 Low-Level Authentication 72
+Stored Cross-Site Scripting 15000-29999 Mid-Level Authentication 0
+Stored Cross-Site Scripting 15000-29999 High-Level Authentication 0
+Stored Cross-Site Scripting 30000-49999 No Authentication 160
+Stored Cross-Site Scripting 30000-49999 Low-Level Authentication 96
+Stored Cross-Site Scripting 30000-49999 Mid-Level Authentication 0
+Stored Cross-Site Scripting 30000-49999 High-Level Authentication 0
+Stored Cross-Site Scripting 50000-99999 No Authentication 240
+Stored Cross-Site Scripting 50000-99999 Low-Level Authentication 144
+Stored Cross-Site Scripting 50000-99999 Mid-Level Authentication 18
+Stored Cross-Site Scripting 50000-99999 High-Level Authentication 0
+Stored Cross-Site Scripting 100000-499999 No Authentication 480
+Stored Cross-Site Scripting 100000-499999 Low-Level Authentication 288
+Stored Cross-Site Scripting 100000-499999 Mid-Level Authentication 36
+Stored Cross-Site Scripting 100000-499999 High-Level Authentication 0
+Stored Cross-Site Scripting 500000-999999 No Authentication 960
+Stored Cross-Site Scripting 500000-999999 Low-Level Authentication 576
+Stored Cross-Site Scripting 500000-999999 Mid-Level Authentication 72
+Stored Cross-Site Scripting 500000-999999 High-Level Authentication 0
+Stored Cross-Site Scripting 1000000-4999999 No Authentication 1280
+Stored Cross-Site Scripting 1000000-4999999 Low-Level Authentication 768
+Stored Cross-Site Scripting 1000000-4999999 Mid-Level Authentication 96
+Stored Cross-Site Scripting 1000000-4999999 High-Level Authentication 0
+Stored Cross-Site Scripting 5000000+ No Authentication 3840
+Stored Cross-Site Scripting 5000000+ Low-Level Authentication 2304
+Stored Cross-Site Scripting 5000000+ Mid-Level Authentication 288
+Stored Cross-Site Scripting 5000000+ High-Level Authentication 0
+Reflected Cross-Site Scripting <25 High-Level Authentication 0
+Reflected Cross-Site Scripting 25-499 High-Level Authentication 0
+Reflected Cross-Site Scripting 500-999 High-Level Authentication 0
+Reflected Cross-Site Scripting 1000-4999 High-Level Authentication 0
+Reflected Cross-Site Scripting 5000-9999 High-Level Authentication 0
+Reflected Cross-Site Scripting 10000-14999 High-Level Authentication 0
+Reflected Cross-Site Scripting 15000-29999 High-Level Authentication 0
+Reflected Cross-Site Scripting 30000-49999 High-Level Authentication 0
+Reflected Cross-Site Scripting 50000-99999 High-Level Authentication 68
+Reflected Cross-Site Scripting 100000-499999 High-Level Authentication 135
+Reflected Cross-Site Scripting 500000-999999 High-Level Authentication 270
+Reflected Cross-Site Scripting 1000000-4999999 High-Level Authentication 360
+Reflected Cross-Site Scripting 5000000+ High-Level Authentication 1080
+Cross-Site Request Forgery <25 High-Level Authentication 0
+Cross-Site Request Forgery 25-499 High-Level Authentication 0
+Cross-Site Request Forgery 500-999 High-Level Authentication 0
+Cross-Site Request Forgery 1000-4999 High-Level Authentication 0
+Cross-Site Request Forgery 5000-9999 High-Level Authentication 0
+Cross-Site Request Forgery 10000-14999 High-Level Authentication 0
+Cross-Site Request Forgery 15000-29999 High-Level Authentication 0
+Cross-Site Request Forgery 30000-49999 High-Level Authentication 0
+Cross-Site Request Forgery 50000-99999 High-Level Authentication 68
+Cross-Site Request Forgery 100000-499999 High-Level Authentication 135
+Cross-Site Request Forgery 500000-999999 High-Level Authentication 270
+Cross-Site Request Forgery 1000000-4999999 High-Level Authentication 360
+Cross-Site Request Forgery 5000000+ High-Level Authentication 1080
+Missing Authorization <25 No Authentication 0
+Missing Authorization <25 Low-Level Authentication 0
+Missing Authorization <25 Mid-Level Authentication 0
+Missing Authorization <25 High-Level Authentication 0
+Missing Authorization 25-499 No Authentication 0
+Missing Authorization 25-499 Low-Level Authentication 0
+Missing Authorization 25-499 Mid-Level Authentication 0
+Missing Authorization 25-499 High-Level Authentication 0
+Missing Authorization 500-999 No Authentication 0
+Missing Authorization 500-999 Low-Level Authentication 0
+Missing Authorization 500-999 Mid-Level Authentication 0
+Missing Authorization 500-999 High-Level Authentication 0
+Missing Authorization 1000-4999 No Authentication 0
+Missing Authorization 1000-4999 Low-Level Authentication 0
+Missing Authorization 1000-4999 Mid-Level Authentication 0
+Missing Authorization 1000-4999 High-Level Authentication 0
+Missing Authorization 5000-9999 No Authentication 0
+Missing Authorization 5000-9999 Low-Level Authentication 0
+Missing Authorization 5000-9999 Mid-Level Authentication 0
+Missing Authorization 5000-9999 High-Level Authentication 0
+Missing Authorization 10000-14999 No Authentication 0
+Missing Authorization 10000-14999 Low-Level Authentication 0
+Missing Authorization 10000-14999 Mid-Level Authentication 0
+Missing Authorization 10000-14999 High-Level Authentication 0
+Missing Authorization 15000-29999 No Authentication 0
+Missing Authorization 15000-29999 Low-Level Authentication 0
+Missing Authorization 15000-29999 Mid-Level Authentication 0
+Missing Authorization 15000-29999 High-Level Authentication 0
+Missing Authorization 30000-49999 No Authentication 0
+Missing Authorization 30000-49999 Low-Level Authentication 0
+Missing Authorization 30000-49999 Mid-Level Authentication 0
+Missing Authorization 30000-49999 High-Level Authentication 0
+Missing Authorization 50000-99999 No Authentication 200
+Missing Authorization 50000-99999 Low-Level Authentication 120
+Missing Authorization 50000-99999 Mid-Level Authentication 15
+Missing Authorization 50000-99999 High-Level Authentication 0
+Missing Authorization 100000-499999 No Authentication 400
+Missing Authorization 100000-499999 Low-Level Authentication 240
+Missing Authorization 100000-499999 Mid-Level Authentication 30
+Missing Authorization 100000-499999 High-Level Authentication 0
+Missing Authorization 500000-999999 No Authentication 800
+Missing Authorization 500000-999999 Low-Level Authentication 480
+Missing Authorization 500000-999999 Mid-Level Authentication 60
+Missing Authorization 500000-999999 High-Level Authentication 0
+Missing Authorization 1000000-4999999 No Authentication 1067
+Missing Authorization 1000000-4999999 Low-Level Authentication 640
+Missing Authorization 1000000-4999999 Mid-Level Authentication 80
+Missing Authorization 1000000-4999999 High-Level Authentication 0
+Missing Authorization 5000000+ No Authentication 3200
+Missing Authorization 5000000+ Low-Level Authentication 1920
+Missing Authorization 5000000+ Mid-Level Authentication 240
+Missing Authorization 5000000+ High-Level Authentication 0
+SQL Injection <25 No Authentication 0
+SQL Injection <25 Low-Level Authentication 0
+SQL Injection <25 Mid-Level Authentication 0
+SQL Injection <25 High-Level Authentication 0
+SQL Injection 25-499 No Authentication 0
+SQL Injection 25-499 Low-Level Authentication 0
+SQL Injection 25-499 Mid-Level Authentication 0
+SQL Injection 25-499 High-Level Authentication 0
+SQL Injection 500-999 No Authentication 20
+SQL Injection 500-999 Low-Level Authentication 12
+SQL Injection 500-999 Mid-Level Authentication 0
+SQL Injection 500-999 High-Level Authentication 0
+SQL Injection 1000-4999 No Authentication 67
+SQL Injection 1000-4999 Low-Level Authentication 40
+SQL Injection 1000-4999 Mid-Level Authentication 0
+SQL Injection 1000-4999 High-Level Authentication 0
+SQL Injection 5000-9999 No Authentication 94
+SQL Injection 5000-9999 Low-Level Authentication 56
+SQL Injection 5000-9999 Mid-Level Authentication 0
+SQL Injection 5000-9999 High-Level Authentication 0
+SQL Injection 10000-14999 No Authentication 134
+SQL Injection 10000-14999 Low-Level Authentication 80
+SQL Injection 10000-14999 Mid-Level Authentication 0
+SQL Injection 10000-14999 High-Level Authentication 0
+SQL Injection 15000-29999 No Authentication 200
+SQL Injection 15000-29999 Low-Level Authentication 120
+SQL Injection 15000-29999 Mid-Level Authentication 0
+SQL Injection 15000-29999 High-Level Authentication 0
+SQL Injection 30000-49999 No Authentication 267
+SQL Injection 30000-49999 Low-Level Authentication 160
+SQL Injection 30000-49999 Mid-Level Authentication 0
+SQL Injection 30000-49999 High-Level Authentication 0
+SQL Injection 50000-99999 No Authentication 400
+SQL Injection 50000-99999 Low-Level Authentication 240
+SQL Injection 50000-99999 Mid-Level Authentication 30
+SQL Injection 50000-99999 High-Level Authentication 0
+SQL Injection 100000-499999 No Authentication 800
+SQL Injection 100000-499999 Low-Level Authentication 480
+SQL Injection 100000-499999 Mid-Level Authentication 60
+SQL Injection 100000-499999 High-Level Authentication 0
+SQL Injection 500000-999999 No Authentication 1600
+SQL Injection 500000-999999 Low-Level Authentication 960
+SQL Injection 500000-999999 Mid-Level Authentication 120
+SQL Injection 500000-999999 High-Level Authentication 0
+SQL Injection 1000000-4999999 No Authentication 2134
+SQL Injection 1000000-4999999 Low-Level Authentication 1280
+SQL Injection 1000000-4999999 Mid-Level Authentication 160
+SQL Injection 1000000-4999999 High-Level Authentication 0
+SQL Injection 5000000+ No Authentication 6400
+SQL Injection 5000000+ Low-Level Authentication 3840
+SQL Injection 5000000+ Mid-Level Authentication 480
+SQL Injection 5000000+ High-Level Authentication 0
+Insecure Direct Object Reference <25 No Authentication 0
+Insecure Direct Object Reference <25 Low-Level Authentication 0
+Insecure Direct Object Reference <25 Mid-Level Authentication 0
+Insecure Direct Object Reference <25 High-Level Authentication 0
+Insecure Direct Object Reference 25-499 No Authentication 0
+Insecure Direct Object Reference 25-499 Low-Level Authentication 0
+Insecure Direct Object Reference 25-499 Mid-Level Authentication 0
+Insecure Direct Object Reference 25-499 High-Level Authentication 0
+Insecure Direct Object Reference 500-999 No Authentication 0
+Insecure Direct Object Reference 500-999 Low-Level Authentication 0
+Insecure Direct Object Reference 500-999 Mid-Level Authentication 0
+Insecure Direct Object Reference 500-999 High-Level Authentication 0
+Insecure Direct Object Reference 1000-4999 No Authentication 0
+Insecure Direct Object Reference 1000-4999 Low-Level Authentication 0
+Insecure Direct Object Reference 1000-4999 Mid-Level Authentication 0
+Insecure Direct Object Reference 1000-4999 High-Level Authentication 0
+Insecure Direct Object Reference 5000-9999 No Authentication 0
+Insecure Direct Object Reference 5000-9999 Low-Level Authentication 0
+Insecure Direct Object Reference 5000-9999 Mid-Level Authentication 0
+Insecure Direct Object Reference 5000-9999 High-Level Authentication 0
+Insecure Direct Object Reference 10000-14999 No Authentication 0
+Insecure Direct Object Reference 10000-14999 Low-Level Authentication 0
+Insecure Direct Object Reference 10000-14999 Mid-Level Authentication 0
+Insecure Direct Object Reference 10000-14999 High-Level Authentication 0
+Insecure Direct Object Reference 15000-29999 No Authentication 0
+Insecure Direct Object Reference 15000-29999 Low-Level Authentication 0
+Insecure Direct Object Reference 15000-29999 Mid-Level Authentication 0
+Insecure Direct Object Reference 15000-29999 High-Level Authentication 0
+Insecure Direct Object Reference 30000-49999 No Authentication 0
+Insecure Direct Object Reference 30000-49999 Low-Level Authentication 0
+Insecure Direct Object Reference 30000-49999 Mid-Level Authentication 0
+Insecure Direct Object Reference 30000-49999 High-Level Authentication 0
+Insecure Direct Object Reference 50000-99999 No Authentication 200
+Insecure Direct Object Reference 50000-99999 Low-Level Authentication 120
+Insecure Direct Object Reference 50000-99999 Mid-Level Authentication 15
+Insecure Direct Object Reference 50000-99999 High-Level Authentication 0
+Insecure Direct Object Reference 100000-499999 No Authentication 400
+Insecure Direct Object Reference 100000-499999 Low-Level Authentication 240
+Insecure Direct Object Reference 100000-499999 Mid-Level Authentication 30
+Insecure Direct Object Reference 100000-499999 High-Level Authentication 0
+Insecure Direct Object Reference 500000-999999 No Authentication 800
+Insecure Direct Object Reference 500000-999999 Low-Level Authentication 480
+Insecure Direct Object Reference 500000-999999 Mid-Level Authentication 60
+Insecure Direct Object Reference 500000-999999 High-Level Authentication 0
+Insecure Direct Object Reference 1000000-4999999 No Authentication 1067
+Insecure Direct Object Reference 1000000-4999999 Low-Level Authentication 640
+Insecure Direct Object Reference 1000000-4999999 Mid-Level Authentication 80
+Insecure Direct Object Reference 1000000-4999999 High-Level Authentication 0
+Insecure Direct Object Reference 5000000+ No Authentication 3200
+Insecure Direct Object Reference 5000000+ Low-Level Authentication 1920
+Insecure Direct Object Reference 5000000+ Mid-Level Authentication 240
+Insecure Direct Object Reference 5000000+ High-Level Authentication 0
+Arbitrary File Upload <25 No Authentication 0
+Arbitrary File Upload <25 Low-Level Authentication 0
+Arbitrary File Upload <25 Mid-Level Authentication 0
+Arbitrary File Upload <25 High-Level Authentication 0
+Arbitrary File Upload 25-499 No Authentication 33
+Arbitrary File Upload 25-499 Low-Level Authentication 20
+Arbitrary File Upload 25-499 Mid-Level Authentication 0
+Arbitrary File Upload 25-499 High-Level Authentication 0
+Arbitrary File Upload 500-999 No Authentication 98
+Arbitrary File Upload 500-999 Low-Level Authentication 59
+Arbitrary File Upload 500-999 Mid-Level Authentication 0
+Arbitrary File Upload 500-999 High-Level Authentication 0
+Arbitrary File Upload 1000-4999 No Authentication 325
+Arbitrary File Upload 1000-4999 Low-Level Authentication 195
+Arbitrary File Upload 1000-4999 Mid-Level Authentication 0
+Arbitrary File Upload 1000-4999 High-Level Authentication 0
+Arbitrary File Upload 5000-9999 No Authentication 455
+Arbitrary File Upload 5000-9999 Low-Level Authentication 273
+Arbitrary File Upload 5000-9999 Mid-Level Authentication 0
+Arbitrary File Upload 5000-9999 High-Level Authentication 0
+Arbitrary File Upload 10000-14999 No Authentication 650
+Arbitrary File Upload 10000-14999 Low-Level Authentication 390
+Arbitrary File Upload 10000-14999 Mid-Level Authentication 0
+Arbitrary File Upload 10000-14999 High-Level Authentication 0
+Arbitrary File Upload 15000-29999 No Authentication 975
+Arbitrary File Upload 15000-29999 Low-Level Authentication 585
+Arbitrary File Upload 15000-29999 Mid-Level Authentication 0
+Arbitrary File Upload 15000-29999 High-Level Authentication 0
+Arbitrary File Upload 30000-49999 No Authentication 1300
+Arbitrary File Upload 30000-49999 Low-Level Authentication 780
+Arbitrary File Upload 30000-49999 Mid-Level Authentication 0
+Arbitrary File Upload 30000-49999 High-Level Authentication 0
+Arbitrary File Upload 50000-99999 No Authentication 1950
+Arbitrary File Upload 50000-99999 Low-Level Authentication 1170
+Arbitrary File Upload 50000-99999 Mid-Level Authentication 147
+Arbitrary File Upload 50000-99999 High-Level Authentication 0
+Arbitrary File Upload 100000-499999 No Authentication 3900
+Arbitrary File Upload 100000-499999 Low-Level Authentication 2340
+Arbitrary File Upload 100000-499999 Mid-Level Authentication 293
+Arbitrary File Upload 100000-499999 High-Level Authentication 0
+Arbitrary File Upload 500000-999999 No Authentication 7800
+Arbitrary File Upload 500000-999999 Low-Level Authentication 4680
+Arbitrary File Upload 500000-999999 Mid-Level Authentication 585
+Arbitrary File Upload 500000-999999 High-Level Authentication 0
+Arbitrary File Upload 1000000-4999999 No Authentication 10400
+Arbitrary File Upload 1000000-4999999 Low-Level Authentication 6240
+Arbitrary File Upload 1000000-4999999 Mid-Level Authentication 780
+Arbitrary File Upload 1000000-4999999 High-Level Authentication 0
+Arbitrary File Upload 5000000+ No Authentication 31200
+Arbitrary File Upload 5000000+ Low-Level Authentication 18720
+Arbitrary File Upload 5000000+ Mid-Level Authentication 2340
+Arbitrary File Upload 5000000+ High-Level Authentication 0
+Arbitrary File Download/Read <25 No Authentication 0
+Arbitrary File Download/Read <25 Low-Level Authentication 0
+Arbitrary File Download/Read <25 Mid-Level Authentication 0
+Arbitrary File Download/Read <25 High-Level Authentication 0
+Arbitrary File Download/Read 25-499 No Authentication 7
+Arbitrary File Download/Read 25-499 Low-Level Authentication 0
+Arbitrary File Download/Read 25-499 Mid-Level Authentication 0
+Arbitrary File Download/Read 25-499 High-Level Authentication 0
+Arbitrary File Download/Read 500-999 No Authentication 20
+Arbitrary File Download/Read 500-999 Low-Level Authentication 12
+Arbitrary File Download/Read 500-999 Mid-Level Authentication 0
+Arbitrary File Download/Read 500-999 High-Level Authentication 0
+Arbitrary File Download/Read 1000-4999 No Authentication 67
+Arbitrary File Download/Read 1000-4999 Low-Level Authentication 40
+Arbitrary File Download/Read 1000-4999 Mid-Level Authentication 0
+Arbitrary File Download/Read 1000-4999 High-Level Authentication 0
+Arbitrary File Download/Read 5000-9999 No Authentication 94
+Arbitrary File Download/Read 5000-9999 Low-Level Authentication 56
+Arbitrary File Download/Read 5000-9999 Mid-Level Authentication 0
+Arbitrary File Download/Read 5000-9999 High-Level Authentication 0
+Arbitrary File Download/Read 10000-14999 No Authentication 134
+Arbitrary File Download/Read 10000-14999 Low-Level Authentication 80
+Arbitrary File Download/Read 10000-14999 Mid-Level Authentication 0
+Arbitrary File Download/Read 10000-14999 High-Level Authentication 0
+Arbitrary File Download/Read 15000-29999 No Authentication 200
+Arbitrary File Download/Read 15000-29999 Low-Level Authentication 120
+Arbitrary File Download/Read 15000-29999 Mid-Level Authentication 0
+Arbitrary File Download/Read 15000-29999 High-Level Authentication 0
+Arbitrary File Download/Read 30000-49999 No Authentication 267
+Arbitrary File Download/Read 30000-49999 Low-Level Authentication 160
+Arbitrary File Download/Read 30000-49999 Mid-Level Authentication 0
+Arbitrary File Download/Read 30000-49999 High-Level Authentication 0
+Arbitrary File Download/Read 50000-99999 No Authentication 400
+Arbitrary File Download/Read 50000-99999 Low-Level Authentication 240
+Arbitrary File Download/Read 50000-99999 Mid-Level Authentication 30
+Arbitrary File Download/Read 50000-99999 High-Level Authentication 0
+Arbitrary File Download/Read 100000-499999 No Authentication 800
+Arbitrary File Download/Read 100000-499999 Low-Level Authentication 480
+Arbitrary File Download/Read 100000-499999 Mid-Level Authentication 60
+Arbitrary File Download/Read 100000-499999 High-Level Authentication 0
+Arbitrary File Download/Read 500000-999999 No Authentication 1600
+Arbitrary File Download/Read 500000-999999 Low-Level Authentication 960
+Arbitrary File Download/Read 500000-999999 Mid-Level Authentication 120
+Arbitrary File Download/Read 500000-999999 High-Level Authentication 0
+Arbitrary File Download/Read 1000000-4999999 No Authentication 2134
+Arbitrary File Download/Read 1000000-4999999 Low-Level Authentication 1280
+Arbitrary File Download/Read 1000000-4999999 Mid-Level Authentication 160
+Arbitrary File Download/Read 1000000-4999999 High-Level Authentication 0
+Arbitrary File Download/Read 5000000+ No Authentication 6400
+Arbitrary File Download/Read 5000000+ Low-Level Authentication 3840
+Arbitrary File Download/Read 5000000+ Mid-Level Authentication 480
+Arbitrary File Download/Read 5000000+ High-Level Authentication 0
+Arbitrary File Deletion <25 No Authentication 0
+Arbitrary File Deletion <25 Low-Level Authentication 0
+Arbitrary File Deletion <25 Mid-Level Authentication 0
+Arbitrary File Deletion <25 High-Level Authentication 0
+Arbitrary File Deletion 25-499 No Authentication 23
+Arbitrary File Deletion 25-499 Low-Level Authentication 14
+Arbitrary File Deletion 25-499 Mid-Level Authentication 0
+Arbitrary File Deletion 25-499 High-Level Authentication 0
+Arbitrary File Deletion 500-999 No Authentication 68
+Arbitrary File Deletion 500-999 Low-Level Authentication 41
+Arbitrary File Deletion 500-999 Mid-Level Authentication 0
+Arbitrary File Deletion 500-999 High-Level Authentication 0
+Arbitrary File Deletion 1000-4999 No Authentication 225
+Arbitrary File Deletion 1000-4999 Low-Level Authentication 135
+Arbitrary File Deletion 1000-4999 Mid-Level Authentication 0
+Arbitrary File Deletion 1000-4999 High-Level Authentication 0
+Arbitrary File Deletion 5000-9999 No Authentication 315
+Arbitrary File Deletion 5000-9999 Low-Level Authentication 189
+Arbitrary File Deletion 5000-9999 Mid-Level Authentication 0
+Arbitrary File Deletion 5000-9999 High-Level Authentication 0
+Arbitrary File Deletion 10000-14999 No Authentication 450
+Arbitrary File Deletion 10000-14999 Low-Level Authentication 270
+Arbitrary File Deletion 10000-14999 Mid-Level Authentication 0
+Arbitrary File Deletion 10000-14999 High-Level Authentication 0
+Arbitrary File Deletion 15000-29999 No Authentication 675
+Arbitrary File Deletion 15000-29999 Low-Level Authentication 405
+Arbitrary File Deletion 15000-29999 Mid-Level Authentication 0
+Arbitrary File Deletion 15000-29999 High-Level Authentication 0
+Arbitrary File Deletion 30000-49999 No Authentication 900
+Arbitrary File Deletion 30000-49999 Low-Level Authentication 540
+Arbitrary File Deletion 30000-49999 Mid-Level Authentication 0
+Arbitrary File Deletion 30000-49999 High-Level Authentication 0
+Arbitrary File Deletion 50000-99999 No Authentication 1350
+Arbitrary File Deletion 50000-99999 Low-Level Authentication 810
+Arbitrary File Deletion 50000-99999 Mid-Level Authentication 102
+Arbitrary File Deletion 50000-99999 High-Level Authentication 0
+Arbitrary File Deletion 100000-499999 No Authentication 2700
+Arbitrary File Deletion 100000-499999 Low-Level Authentication 1620
+Arbitrary File Deletion 100000-499999 Mid-Level Authentication 203
+Arbitrary File Deletion 100000-499999 High-Level Authentication 0
+Arbitrary File Deletion 500000-999999 No Authentication 5400
+Arbitrary File Deletion 500000-999999 Low-Level Authentication 3240
+Arbitrary File Deletion 500000-999999 Mid-Level Authentication 405
+Arbitrary File Deletion 500000-999999 High-Level Authentication 0
+Arbitrary File Deletion 1000000-4999999 No Authentication 7200
+Arbitrary File Deletion 1000000-4999999 Low-Level Authentication 4320
+Arbitrary File Deletion 1000000-4999999 Mid-Level Authentication 540
+Arbitrary File Deletion 1000000-4999999 High-Level Authentication 0
+Arbitrary File Deletion 5000000+ No Authentication 21600
+Arbitrary File Deletion 5000000+ Low-Level Authentication 12960
+Arbitrary File Deletion 5000000+ Mid-Level Authentication 1620
+Arbitrary File Deletion 5000000+ High-Level Authentication 0
+Local File Include/Remote File Include <25 No Authentication 0
+Local File Include/Remote File Include <25 Low-Level Authentication 0
+Local File Include/Remote File Include <25 Mid-Level Authentication 0
+Local File Include/Remote File Include <25 High-Level Authentication 0
+Local File Include/Remote File Include 25-499 No Authentication 0
+Local File Include/Remote File Include 25-499 Low-Level Authentication 0
+Local File Include/Remote File Include 25-499 Mid-Level Authentication 0
+Local File Include/Remote File Include 25-499 High-Level Authentication 0
+Local File Include/Remote File Include 500-999 No Authentication 0
+Local File Include/Remote File Include 500-999 Low-Level Authentication 0
+Local File Include/Remote File Include 500-999 Mid-Level Authentication 0
+Local File Include/Remote File Include 500-999 High-Level Authentication 0
+Local File Include/Remote File Include 1000-4999 No Authentication 0
+Local File Include/Remote File Include 1000-4999 Low-Level Authentication 0
+Local File Include/Remote File Include 1000-4999 Mid-Level Authentication 0
+Local File Include/Remote File Include 1000-4999 High-Level Authentication 0
+Local File Include/Remote File Include 5000-9999 No Authentication 0
+Local File Include/Remote File Include 5000-9999 Low-Level Authentication 0
+Local File Include/Remote File Include 5000-9999 Mid-Level Authentication 0
+Local File Include/Remote File Include 5000-9999 High-Level Authentication 0
+Local File Include/Remote File Include 10000-14999 No Authentication 0
+Local File Include/Remote File Include 10000-14999 Low-Level Authentication 0
+Local File Include/Remote File Include 10000-14999 Mid-Level Authentication 0
+Local File Include/Remote File Include 10000-14999 High-Level Authentication 0
+Local File Include/Remote File Include 15000-29999 No Authentication 0
+Local File Include/Remote File Include 15000-29999 Low-Level Authentication 0
+Local File Include/Remote File Include 15000-29999 Mid-Level Authentication 0
+Local File Include/Remote File Include 15000-29999 High-Level Authentication 0
+Local File Include/Remote File Include 30000-49999 No Authentication 0
+Local File Include/Remote File Include 30000-49999 Low-Level Authentication 0
+Local File Include/Remote File Include 30000-49999 Mid-Level Authentication 0
+Local File Include/Remote File Include 30000-49999 High-Level Authentication 0
+Local File Include/Remote File Include 50000-99999 No Authentication 500
+Local File Include/Remote File Include 50000-99999 Low-Level Authentication 300
+Local File Include/Remote File Include 50000-99999 Mid-Level Authentication 38
+Local File Include/Remote File Include 50000-99999 High-Level Authentication 0
+Local File Include/Remote File Include 100000-499999 No Authentication 1000
+Local File Include/Remote File Include 100000-499999 Low-Level Authentication 600
+Local File Include/Remote File Include 100000-499999 Mid-Level Authentication 75
+Local File Include/Remote File Include 100000-499999 High-Level Authentication 0
+Local File Include/Remote File Include 500000-999999 No Authentication 2000
+Local File Include/Remote File Include 500000-999999 Low-Level Authentication 1200
+Local File Include/Remote File Include 500000-999999 Mid-Level Authentication 150
+Local File Include/Remote File Include 500000-999999 High-Level Authentication 0
+Local File Include/Remote File Include 1000000-4999999 No Authentication 2667
+Local File Include/Remote File Include 1000000-4999999 Low-Level Authentication 1600
+Local File Include/Remote File Include 1000000-4999999 Mid-Level Authentication 200
+Local File Include/Remote File Include 1000000-4999999 High-Level Authentication 0
+Local File Include/Remote File Include 5000000+ No Authentication 8000
+Local File Include/Remote File Include 5000000+ Low-Level Authentication 4800
+Local File Include/Remote File Include 5000000+ Mid-Level Authentication 600
+Local File Include/Remote File Include 5000000+ High-Level Authentication 0
+Directory Traversal <25 No Authentication 0
+Directory Traversal <25 Low-Level Authentication 0
+Directory Traversal <25 Mid-Level Authentication 0
+Directory Traversal <25 High-Level Authentication 0
+Directory Traversal 25-499 No Authentication 0
+Directory Traversal 25-499 Low-Level Authentication 0
+Directory Traversal 25-499 Mid-Level Authentication 0
+Directory Traversal 25-499 High-Level Authentication 0
+Directory Traversal 500-999 No Authentication 0
+Directory Traversal 500-999 Low-Level Authentication 0
+Directory Traversal 500-999 Mid-Level Authentication 0
+Directory Traversal 500-999 High-Level Authentication 0
+Directory Traversal 1000-4999 No Authentication 0
+Directory Traversal 1000-4999 Low-Level Authentication 0
+Directory Traversal 1000-4999 Mid-Level Authentication 0
+Directory Traversal 1000-4999 High-Level Authentication 0
+Directory Traversal 5000-9999 No Authentication 0
+Directory Traversal 5000-9999 Low-Level Authentication 0
+Directory Traversal 5000-9999 Mid-Level Authentication 0
+Directory Traversal 5000-9999 High-Level Authentication 0
+Directory Traversal 10000-14999 No Authentication 0
+Directory Traversal 10000-14999 Low-Level Authentication 0
+Directory Traversal 10000-14999 Mid-Level Authentication 0
+Directory Traversal 10000-14999 High-Level Authentication 0
+Directory Traversal 15000-29999 No Authentication 0
+Directory Traversal 15000-29999 Low-Level Authentication 0
+Directory Traversal 15000-29999 Mid-Level Authentication 0
+Directory Traversal 15000-29999 High-Level Authentication 0
+Directory Traversal 30000-49999 No Authentication 0
+Directory Traversal 30000-49999 Low-Level Authentication 0
+Directory Traversal 30000-49999 Mid-Level Authentication 0
+Directory Traversal 30000-49999 High-Level Authentication 0
+Directory Traversal 50000-99999 No Authentication 90
+Directory Traversal 50000-99999 Low-Level Authentication 54
+Directory Traversal 50000-99999 Mid-Level Authentication 7
+Directory Traversal 50000-99999 High-Level Authentication 0
+Directory Traversal 100000-499999 No Authentication 180
+Directory Traversal 100000-499999 Low-Level Authentication 108
+Directory Traversal 100000-499999 Mid-Level Authentication 14
+Directory Traversal 100000-499999 High-Level Authentication 0
+Directory Traversal 500000-999999 No Authentication 360
+Directory Traversal 500000-999999 Low-Level Authentication 216
+Directory Traversal 500000-999999 Mid-Level Authentication 27
+Directory Traversal 500000-999999 High-Level Authentication 0
+Directory Traversal 1000000-4999999 No Authentication 480
+Directory Traversal 1000000-4999999 Low-Level Authentication 288
+Directory Traversal 1000000-4999999 Mid-Level Authentication 36
+Directory Traversal 1000000-4999999 High-Level Authentication 0
+Directory Traversal 5000000+ No Authentication 1440
+Directory Traversal 5000000+ Low-Level Authentication 864
+Directory Traversal 5000000+ Mid-Level Authentication 108
+Directory Traversal 5000000+ High-Level Authentication 0
+Privilege Escalation to Admin <25 No Authentication 0
+Privilege Escalation to Admin <25 Low-Level Authentication 0
+Privilege Escalation to Admin <25 Mid-Level Authentication 0
+Privilege Escalation to Admin <25 High-Level Authentication 0
+Privilege Escalation to Admin 25-499 No Authentication 33
+Privilege Escalation to Admin 25-499 Low-Level Authentication 20
+Privilege Escalation to Admin 25-499 Mid-Level Authentication 0
+Privilege Escalation to Admin 25-499 High-Level Authentication 0
+Privilege Escalation to Admin 500-999 No Authentication 98
+Privilege Escalation to Admin 500-999 Low-Level Authentication 59
+Privilege Escalation to Admin 500-999 Mid-Level Authentication 0
+Privilege Escalation to Admin 500-999 High-Level Authentication 0
+Privilege Escalation to Admin 1000-4999 No Authentication 325
+Privilege Escalation to Admin 1000-4999 Low-Level Authentication 195
+Privilege Escalation to Admin 1000-4999 Mid-Level Authentication 0
+Privilege Escalation to Admin 1000-4999 High-Level Authentication 0
+Privilege Escalation to Admin 5000-9999 No Authentication 455
+Privilege Escalation to Admin 5000-9999 Low-Level Authentication 273
+Privilege Escalation to Admin 5000-9999 Mid-Level Authentication 0
+Privilege Escalation to Admin 5000-9999 High-Level Authentication 0
+Privilege Escalation to Admin 10000-14999 No Authentication 650
+Privilege Escalation to Admin 10000-14999 Low-Level Authentication 390
+Privilege Escalation to Admin 10000-14999 Mid-Level Authentication 0
+Privilege Escalation to Admin 10000-14999 High-Level Authentication 0
+Privilege Escalation to Admin 15000-29999 No Authentication 975
+Privilege Escalation to Admin 15000-29999 Low-Level Authentication 585
+Privilege Escalation to Admin 15000-29999 Mid-Level Authentication 0
+Privilege Escalation to Admin 15000-29999 High-Level Authentication 0
+Privilege Escalation to Admin 30000-49999 No Authentication 1300
+Privilege Escalation to Admin 30000-49999 Low-Level Authentication 780
+Privilege Escalation to Admin 30000-49999 Mid-Level Authentication 0
+Privilege Escalation to Admin 30000-49999 High-Level Authentication 0
+Privilege Escalation to Admin 50000-99999 No Authentication 1950
+Privilege Escalation to Admin 50000-99999 Low-Level Authentication 1170
+Privilege Escalation to Admin 50000-99999 Mid-Level Authentication 147
+Privilege Escalation to Admin 50000-99999 High-Level Authentication 0
+Privilege Escalation to Admin 100000-499999 No Authentication 3900
+Privilege Escalation to Admin 100000-499999 Low-Level Authentication 2340
+Privilege Escalation to Admin 100000-499999 Mid-Level Authentication 293
+Privilege Escalation to Admin 100000-499999 High-Level Authentication 0
+Privilege Escalation to Admin 500000-999999 No Authentication 7800
+Privilege Escalation to Admin 500000-999999 Low-Level Authentication 4680
+Privilege Escalation to Admin 500000-999999 Mid-Level Authentication 585
+Privilege Escalation to Admin 500000-999999 High-Level Authentication 0
+Privilege Escalation to Admin 1000000-4999999 No Authentication 10400
+Privilege Escalation to Admin 1000000-4999999 Low-Level Authentication 6240
+Privilege Escalation to Admin 1000000-4999999 Mid-Level Authentication 780
+Privilege Escalation to Admin 1000000-4999999 High-Level Authentication 0
+Privilege Escalation to Admin 5000000+ No Authentication 31200
+Privilege Escalation to Admin 5000000+ Low-Level Authentication 18720
+Privilege Escalation to Admin 5000000+ Mid-Level Authentication 2340
+Privilege Escalation to Admin 5000000+ High-Level Authentication 0
+Privilege Escalation to Non-Admin <25 No Authentication 0
+Privilege Escalation to Non-Admin <25 Low-Level Authentication 0
+Privilege Escalation to Non-Admin <25 Mid-Level Authentication 0
+Privilege Escalation to Non-Admin <25 High-Level Authentication 0
+Privilege Escalation to Non-Admin 25-499 No Authentication 0
+Privilege Escalation to Non-Admin 25-499 Low-Level Authentication 0
+Privilege Escalation to Non-Admin 25-499 Mid-Level Authentication 0
+Privilege Escalation to Non-Admin 25-499 High-Level Authentication 0
+Privilege Escalation to Non-Admin 500-999 No Authentication 0
+Privilege Escalation to Non-Admin 500-999 Low-Level Authentication 0
+Privilege Escalation to Non-Admin 500-999 Mid-Level Authentication 0
+Privilege Escalation to Non-Admin 500-999 High-Level Authentication 0
+Privilege Escalation to Non-Admin 1000-4999 No Authentication 0
+Privilege Escalation to Non-Admin 1000-4999 Low-Level Authentication 0
+Privilege Escalation to Non-Admin 1000-4999 Mid-Level Authentication 0
+Privilege Escalation to Non-Admin 1000-4999 High-Level Authentication 0
+Privilege Escalation to Non-Admin 5000-9999 No Authentication 0
+Privilege Escalation to Non-Admin 5000-9999 Low-Level Authentication 0
+Privilege Escalation to Non-Admin 5000-9999 Mid-Level Authentication 0
+Privilege Escalation to Non-Admin 5000-9999 High-Level Authentication 0
+Privilege Escalation to Non-Admin 10000-14999 No Authentication 0
+Privilege Escalation to Non-Admin 10000-14999 Low-Level Authentication 0
+Privilege Escalation to Non-Admin 10000-14999 Mid-Level Authentication 0
+Privilege Escalation to Non-Admin 10000-14999 High-Level Authentication 0
+Privilege Escalation to Non-Admin 15000-29999 No Authentication 0
+Privilege Escalation to Non-Admin 15000-29999 Low-Level Authentication 0
+Privilege Escalation to Non-Admin 15000-29999 Mid-Level Authentication 0
+Privilege Escalation to Non-Admin 15000-29999 High-Level Authentication 0
+Privilege Escalation to Non-Admin 30000-49999 No Authentication 0
+Privilege Escalation to Non-Admin 30000-49999 Low-Level Authentication 0
+Privilege Escalation to Non-Admin 30000-49999 Mid-Level Authentication 0
+Privilege Escalation to Non-Admin 30000-49999 High-Level Authentication 0
+Privilege Escalation to Non-Admin 50000-99999 No Authentication 600
+Privilege Escalation to Non-Admin 50000-99999 Low-Level Authentication 360
+Privilege Escalation to Non-Admin 50000-99999 Mid-Level Authentication 45
+Privilege Escalation to Non-Admin 50000-99999 High-Level Authentication 0
+Privilege Escalation to Non-Admin 100000-499999 No Authentication 1200
+Privilege Escalation to Non-Admin 100000-499999 Low-Level Authentication 720
+Privilege Escalation to Non-Admin 100000-499999 Mid-Level Authentication 90
+Privilege Escalation to Non-Admin 100000-499999 High-Level Authentication 0
+Privilege Escalation to Non-Admin 500000-999999 No Authentication 2400
+Privilege Escalation to Non-Admin 500000-999999 Low-Level Authentication 1440
+Privilege Escalation to Non-Admin 500000-999999 Mid-Level Authentication 180
+Privilege Escalation to Non-Admin 500000-999999 High-Level Authentication 0
+Privilege Escalation to Non-Admin 1000000-4999999 No Authentication 3200
+Privilege Escalation to Non-Admin 1000000-4999999 Low-Level Authentication 1920
+Privilege Escalation to Non-Admin 1000000-4999999 Mid-Level Authentication 240
+Privilege Escalation to Non-Admin 1000000-4999999 High-Level Authentication 0
+Privilege Escalation to Non-Admin 5000000+ No Authentication 9600
+Privilege Escalation to Non-Admin 5000000+ Low-Level Authentication 5760
+Privilege Escalation to Non-Admin 5000000+ Mid-Level Authentication 720
+Privilege Escalation to Non-Admin 5000000+ High-Level Authentication 0
+Arbitrary Options Update <25 No Authentication 0
+Arbitrary Options Update <25 Low-Level Authentication 0
+Arbitrary Options Update <25 Mid-Level Authentication 0
+Arbitrary Options Update <25 High-Level Authentication 0
+Arbitrary Options Update 25-499 No Authentication 33
+Arbitrary Options Update 25-499 Low-Level Authentication 20
+Arbitrary Options Update 25-499 Mid-Level Authentication 0
+Arbitrary Options Update 25-499 High-Level Authentication 0
+Arbitrary Options Update 500-999 No Authentication 98
+Arbitrary Options Update 500-999 Low-Level Authentication 59
+Arbitrary Options Update 500-999 Mid-Level Authentication 0
+Arbitrary Options Update 500-999 High-Level Authentication 0
+Arbitrary Options Update 1000-4999 No Authentication 325
+Arbitrary Options Update 1000-4999 Low-Level Authentication 195
+Arbitrary Options Update 1000-4999 Mid-Level Authentication 0
+Arbitrary Options Update 1000-4999 High-Level Authentication 0
+Arbitrary Options Update 5000-9999 No Authentication 455
+Arbitrary Options Update 5000-9999 Low-Level Authentication 273
+Arbitrary Options Update 5000-9999 Mid-Level Authentication 0
+Arbitrary Options Update 5000-9999 High-Level Authentication 0
+Arbitrary Options Update 10000-14999 No Authentication 650
+Arbitrary Options Update 10000-14999 Low-Level Authentication 390
+Arbitrary Options Update 10000-14999 Mid-Level Authentication 0
+Arbitrary Options Update 10000-14999 High-Level Authentication 0
+Arbitrary Options Update 15000-29999 No Authentication 975
+Arbitrary Options Update 15000-29999 Low-Level Authentication 585
+Arbitrary Options Update 15000-29999 Mid-Level Authentication 0
+Arbitrary Options Update 15000-29999 High-Level Authentication 0
+Arbitrary Options Update 30000-49999 No Authentication 1300
+Arbitrary Options Update 30000-49999 Low-Level Authentication 780
+Arbitrary Options Update 30000-49999 Mid-Level Authentication 0
+Arbitrary Options Update 30000-49999 High-Level Authentication 0
+Arbitrary Options Update 50000-99999 No Authentication 1950
+Arbitrary Options Update 50000-99999 Low-Level Authentication 1170
+Arbitrary Options Update 50000-99999 Mid-Level Authentication 147
+Arbitrary Options Update 50000-99999 High-Level Authentication 0
+Arbitrary Options Update 100000-499999 No Authentication 3900
+Arbitrary Options Update 100000-499999 Low-Level Authentication 2340
+Arbitrary Options Update 100000-499999 Mid-Level Authentication 293
+Arbitrary Options Update 100000-499999 High-Level Authentication 0
+Arbitrary Options Update 500000-999999 No Authentication 7800
+Arbitrary Options Update 500000-999999 Low-Level Authentication 4680
+Arbitrary Options Update 500000-999999 Mid-Level Authentication 585
+Arbitrary Options Update 500000-999999 High-Level Authentication 0
+Arbitrary Options Update 1000000-4999999 No Authentication 10400
+Arbitrary Options Update 1000000-4999999 Low-Level Authentication 6240
+Arbitrary Options Update 1000000-4999999 Mid-Level Authentication 780
+Arbitrary Options Update 1000000-4999999 High-Level Authentication 0
+Arbitrary Options Update 5000000+ No Authentication 31200
+Arbitrary Options Update 5000000+ Low-Level Authentication 18720
+Arbitrary Options Update 5000000+ Mid-Level Authentication 2340
+Arbitrary Options Update 5000000+ High-Level Authentication 0
+Authentication Bypass to Admin <25 No Authentication 0
+Authentication Bypass to Admin <25 Low-Level Authentication 0
+Authentication Bypass to Admin <25 Mid-Level Authentication 0
+Authentication Bypass to Admin <25 High-Level Authentication 0
+Authentication Bypass to Admin 25-499 No Authentication 33
+Authentication Bypass to Admin 25-499 Low-Level Authentication 20
+Authentication Bypass to Admin 25-499 Mid-Level Authentication 0
+Authentication Bypass to Admin 25-499 High-Level Authentication 0
+Authentication Bypass to Admin 500-999 No Authentication 98
+Authentication Bypass to Admin 500-999 Low-Level Authentication 59
+Authentication Bypass to Admin 500-999 Mid-Level Authentication 0
+Authentication Bypass to Admin 500-999 High-Level Authentication 0
+Authentication Bypass to Admin 1000-4999 No Authentication 325
+Authentication Bypass to Admin 1000-4999 Low-Level Authentication 195
+Authentication Bypass to Admin 1000-4999 Mid-Level Authentication 0
+Authentication Bypass to Admin 1000-4999 High-Level Authentication 0
+Authentication Bypass to Admin 5000-9999 No Authentication 455
+Authentication Bypass to Admin 5000-9999 Low-Level Authentication 273
+Authentication Bypass to Admin 5000-9999 Mid-Level Authentication 0
+Authentication Bypass to Admin 5000-9999 High-Level Authentication 0
+Authentication Bypass to Admin 10000-14999 No Authentication 650
+Authentication Bypass to Admin 10000-14999 Low-Level Authentication 390
+Authentication Bypass to Admin 10000-14999 Mid-Level Authentication 0
+Authentication Bypass to Admin 10000-14999 High-Level Authentication 0
+Authentication Bypass to Admin 15000-29999 No Authentication 975
+Authentication Bypass to Admin 15000-29999 Low-Level Authentication 585
+Authentication Bypass to Admin 15000-29999 Mid-Level Authentication 0
+Authentication Bypass to Admin 15000-29999 High-Level Authentication 0
+Authentication Bypass to Admin 30000-49999 No Authentication 1300
+Authentication Bypass to Admin 30000-49999 Low-Level Authentication 780
+Authentication Bypass to Admin 30000-49999 Mid-Level Authentication 0
+Authentication Bypass to Admin 30000-49999 High-Level Authentication 0
+Authentication Bypass to Admin 50000-99999 No Authentication 1950
+Authentication Bypass to Admin 50000-99999 Low-Level Authentication 1170
+Authentication Bypass to Admin 50000-99999 Mid-Level Authentication 147
+Authentication Bypass to Admin 50000-99999 High-Level Authentication 0
+Authentication Bypass to Admin 100000-499999 No Authentication 3900
+Authentication Bypass to Admin 100000-499999 Low-Level Authentication 2340
+Authentication Bypass to Admin 100000-499999 Mid-Level Authentication 293
+Authentication Bypass to Admin 100000-499999 High-Level Authentication 0
+Authentication Bypass to Admin 500000-999999 No Authentication 7800
+Authentication Bypass to Admin 500000-999999 Low-Level Authentication 4680
+Authentication Bypass to Admin 500000-999999 Mid-Level Authentication 585
+Authentication Bypass to Admin 500000-999999 High-Level Authentication 0
+Authentication Bypass to Admin 1000000-4999999 No Authentication 10400
+Authentication Bypass to Admin 1000000-4999999 Low-Level Authentication 6240
+Authentication Bypass to Admin 1000000-4999999 Mid-Level Authentication 780
+Authentication Bypass to Admin 1000000-4999999 High-Level Authentication 0
+Authentication Bypass to Admin 5000000+ No Authentication 31200
+Authentication Bypass to Admin 5000000+ Low-Level Authentication 18720
+Authentication Bypass to Admin 5000000+ Mid-Level Authentication 2340
+Authentication Bypass to Admin 5000000+ High-Level Authentication 0
+Authentication Bypass to Non-Admin <25 No Authentication 0
+Authentication Bypass to Non-Admin <25 Low-Level Authentication 0
+Authentication Bypass to Non-Admin <25 Mid-Level Authentication 0
+Authentication Bypass to Non-Admin <25 High-Level Authentication 0
+Authentication Bypass to Non-Admin 25-499 No Authentication 0
+Authentication Bypass to Non-Admin 25-499 Low-Level Authentication 0
+Authentication Bypass to Non-Admin 25-499 Mid-Level Authentication 0
+Authentication Bypass to Non-Admin 25-499 High-Level Authentication 0
+Authentication Bypass to Non-Admin 500-999 No Authentication 0
+Authentication Bypass to Non-Admin 500-999 Low-Level Authentication 0
+Authentication Bypass to Non-Admin 500-999 Mid-Level Authentication 0
+Authentication Bypass to Non-Admin 500-999 High-Level Authentication 0
+Authentication Bypass to Non-Admin 1000-4999 No Authentication 0
+Authentication Bypass to Non-Admin 1000-4999 Low-Level Authentication 0
+Authentication Bypass to Non-Admin 1000-4999 Mid-Level Authentication 0
+Authentication Bypass to Non-Admin 1000-4999 High-Level Authentication 0
+Authentication Bypass to Non-Admin 5000-9999 No Authentication 0
+Authentication Bypass to Non-Admin 5000-9999 Low-Level Authentication 0
+Authentication Bypass to Non-Admin 5000-9999 Mid-Level Authentication 0
+Authentication Bypass to Non-Admin 5000-9999 High-Level Authentication 0
+Authentication Bypass to Non-Admin 10000-14999 No Authentication 0
+Authentication Bypass to Non-Admin 10000-14999 Low-Level Authentication 0
+Authentication Bypass to Non-Admin 10000-14999 Mid-Level Authentication 0
+Authentication Bypass to Non-Admin 10000-14999 High-Level Authentication 0
+Authentication Bypass to Non-Admin 15000-29999 No Authentication 0
+Authentication Bypass to Non-Admin 15000-29999 Low-Level Authentication 0
+Authentication Bypass to Non-Admin 15000-29999 Mid-Level Authentication 0
+Authentication Bypass to Non-Admin 15000-29999 High-Level Authentication 0
+Authentication Bypass to Non-Admin 30000-49999 No Authentication 0
+Authentication Bypass to Non-Admin 30000-49999 Low-Level Authentication 0
+Authentication Bypass to Non-Admin 30000-49999 Mid-Level Authentication 0
+Authentication Bypass to Non-Admin 30000-49999 High-Level Authentication 0
+Authentication Bypass to Non-Admin 50000-99999 No Authentication 600
+Authentication Bypass to Non-Admin 50000-99999 Low-Level Authentication 360
+Authentication Bypass to Non-Admin 50000-99999 Mid-Level Authentication 45
+Authentication Bypass to Non-Admin 50000-99999 High-Level Authentication 0
+Authentication Bypass to Non-Admin 100000-499999 No Authentication 1200
+Authentication Bypass to Non-Admin 100000-499999 Low-Level Authentication 720
+Authentication Bypass to Non-Admin 100000-499999 Mid-Level Authentication 90
+Authentication Bypass to Non-Admin 100000-499999 High-Level Authentication 0
+Authentication Bypass to Non-Admin 500000-999999 No Authentication 2400
+Authentication Bypass to Non-Admin 500000-999999 Low-Level Authentication 1440
+Authentication Bypass to Non-Admin 500000-999999 Mid-Level Authentication 180
+Authentication Bypass to Non-Admin 500000-999999 High-Level Authentication 0
+Authentication Bypass to Non-Admin 1000000-4999999 No Authentication 3200
+Authentication Bypass to Non-Admin 1000000-4999999 Low-Level Authentication 1920
+Authentication Bypass to Non-Admin 1000000-4999999 Mid-Level Authentication 240
+Authentication Bypass to Non-Admin 1000000-4999999 High-Level Authentication 0
+Authentication Bypass to Non-Admin 5000000+ No Authentication 9600
+Authentication Bypass to Non-Admin 5000000+ Low-Level Authentication 5760
+Authentication Bypass to Non-Admin 5000000+ Mid-Level Authentication 720
+Authentication Bypass to Non-Admin 5000000+ High-Level Authentication 0
+Remote Code Execution/Code Injection <25 No Authentication 0
+Remote Code Execution/Code Injection <25 Low-Level Authentication 0
+Remote Code Execution/Code Injection <25 Mid-Level Authentication 0
+Remote Code Execution/Code Injection <25 High-Level Authentication 0
+Remote Code Execution/Code Injection 25-499 No Authentication 33
+Remote Code Execution/Code Injection 25-499 Low-Level Authentication 20
+Remote Code Execution/Code Injection 25-499 Mid-Level Authentication 0
+Remote Code Execution/Code Injection 25-499 High-Level Authentication 0
+Remote Code Execution/Code Injection 500-999 No Authentication 98
+Remote Code Execution/Code Injection 500-999 Low-Level Authentication 59
+Remote Code Execution/Code Injection 500-999 Mid-Level Authentication 0
+Remote Code Execution/Code Injection 500-999 High-Level Authentication 0
+Remote Code Execution/Code Injection 1000-4999 No Authentication 325
+Remote Code Execution/Code Injection 1000-4999 Low-Level Authentication 195
+Remote Code Execution/Code Injection 1000-4999 Mid-Level Authentication 0
+Remote Code Execution/Code Injection 1000-4999 High-Level Authentication 0
+Remote Code Execution/Code Injection 5000-9999 No Authentication 455
+Remote Code Execution/Code Injection 5000-9999 Low-Level Authentication 273
+Remote Code Execution/Code Injection 5000-9999 Mid-Level Authentication 0
+Remote Code Execution/Code Injection 5000-9999 High-Level Authentication 0
+Remote Code Execution/Code Injection 10000-14999 No Authentication 650
+Remote Code Execution/Code Injection 10000-14999 Low-Level Authentication 390
+Remote Code Execution/Code Injection 10000-14999 Mid-Level Authentication 0
+Remote Code Execution/Code Injection 10000-14999 High-Level Authentication 0
+Remote Code Execution/Code Injection 15000-29999 No Authentication 975
+Remote Code Execution/Code Injection 15000-29999 Low-Level Authentication 585
+Remote Code Execution/Code Injection 15000-29999 Mid-Level Authentication 0
+Remote Code Execution/Code Injection 15000-29999 High-Level Authentication 0
+Remote Code Execution/Code Injection 30000-49999 No Authentication 1300
+Remote Code Execution/Code Injection 30000-49999 Low-Level Authentication 780
+Remote Code Execution/Code Injection 30000-49999 Mid-Level Authentication 0
+Remote Code Execution/Code Injection 30000-49999 High-Level Authentication 0
+Remote Code Execution/Code Injection 50000-99999 No Authentication 1950
+Remote Code Execution/Code Injection 50000-99999 Low-Level Authentication 1170
+Remote Code Execution/Code Injection 50000-99999 Mid-Level Authentication 147
+Remote Code Execution/Code Injection 50000-99999 High-Level Authentication 0
+Remote Code Execution/Code Injection 100000-499999 No Authentication 3900
+Remote Code Execution/Code Injection 100000-499999 Low-Level Authentication 2340
+Remote Code Execution/Code Injection 100000-499999 Mid-Level Authentication 293
+Remote Code Execution/Code Injection 100000-499999 High-Level Authentication 0
+Remote Code Execution/Code Injection 500000-999999 No Authentication 7800
+Remote Code Execution/Code Injection 500000-999999 Low-Level Authentication 4680
+Remote Code Execution/Code Injection 500000-999999 Mid-Level Authentication 585
+Remote Code Execution/Code Injection 500000-999999 High-Level Authentication 0
+Remote Code Execution/Code Injection 1000000-4999999 No Authentication 10400
+Remote Code Execution/Code Injection 1000000-4999999 Low-Level Authentication 6240
+Remote Code Execution/Code Injection 1000000-4999999 Mid-Level Authentication 780
+Remote Code Execution/Code Injection 1000000-4999999 High-Level Authentication 0
+Remote Code Execution/Code Injection 5000000+ No Authentication 31200
+Remote Code Execution/Code Injection 5000000+ Low-Level Authentication 18720
+Remote Code Execution/Code Injection 5000000+ Mid-Level Authentication 2340
+Remote Code Execution/Code Injection 5000000+ High-Level Authentication 0
+Arbitrary Shortcode Execution <25 No Authentication 0
+Arbitrary Shortcode Execution <25 Low-Level Authentication 0
+Arbitrary Shortcode Execution <25 Mid-Level Authentication 0
+Arbitrary Shortcode Execution <25 High-Level Authentication 0
+Arbitrary Shortcode Execution 25-499 No Authentication 0
+Arbitrary Shortcode Execution 25-499 Low-Level Authentication 0
+Arbitrary Shortcode Execution 25-499 Mid-Level Authentication 0
+Arbitrary Shortcode Execution 25-499 High-Level Authentication 0
+Arbitrary Shortcode Execution 500-999 No Authentication 0
+Arbitrary Shortcode Execution 500-999 Low-Level Authentication 0
+Arbitrary Shortcode Execution 500-999 Mid-Level Authentication 0
+Arbitrary Shortcode Execution 500-999 High-Level Authentication 0
+Arbitrary Shortcode Execution 1000-4999 No Authentication 0
+Arbitrary Shortcode Execution 1000-4999 Low-Level Authentication 0
+Arbitrary Shortcode Execution 1000-4999 Mid-Level Authentication 0
+Arbitrary Shortcode Execution 1000-4999 High-Level Authentication 0
+Arbitrary Shortcode Execution 5000-9999 No Authentication 0
+Arbitrary Shortcode Execution 5000-9999 Low-Level Authentication 0
+Arbitrary Shortcode Execution 5000-9999 Mid-Level Authentication 0
+Arbitrary Shortcode Execution 5000-9999 High-Level Authentication 0
+Arbitrary Shortcode Execution 10000-14999 No Authentication 0
+Arbitrary Shortcode Execution 10000-14999 Low-Level Authentication 0
+Arbitrary Shortcode Execution 10000-14999 Mid-Level Authentication 0
+Arbitrary Shortcode Execution 10000-14999 High-Level Authentication 0
+Arbitrary Shortcode Execution 15000-29999 No Authentication 0
+Arbitrary Shortcode Execution 15000-29999 Low-Level Authentication 0
+Arbitrary Shortcode Execution 15000-29999 Mid-Level Authentication 0
+Arbitrary Shortcode Execution 15000-29999 High-Level Authentication 0
+Arbitrary Shortcode Execution 30000-49999 No Authentication 0
+Arbitrary Shortcode Execution 30000-49999 Low-Level Authentication 0
+Arbitrary Shortcode Execution 30000-49999 Mid-Level Authentication 0
+Arbitrary Shortcode Execution 30000-49999 High-Level Authentication 0
+Arbitrary Shortcode Execution 50000-99999 No Authentication 90
+Arbitrary Shortcode Execution 50000-99999 Low-Level Authentication 54
+Arbitrary Shortcode Execution 50000-99999 Mid-Level Authentication 0
+Arbitrary Shortcode Execution 50000-99999 High-Level Authentication 0
+Arbitrary Shortcode Execution 100000-499999 No Authentication 180
+Arbitrary Shortcode Execution 100000-499999 Low-Level Authentication 108
+Arbitrary Shortcode Execution 100000-499999 Mid-Level Authentication 0
+Arbitrary Shortcode Execution 100000-499999 High-Level Authentication 0
+Arbitrary Shortcode Execution 500000-999999 No Authentication 360
+Arbitrary Shortcode Execution 500000-999999 Low-Level Authentication 216
+Arbitrary Shortcode Execution 500000-999999 Mid-Level Authentication 0
+Arbitrary Shortcode Execution 500000-999999 High-Level Authentication 0
+Arbitrary Shortcode Execution 1000000-4999999 No Authentication 480
+Arbitrary Shortcode Execution 1000000-4999999 Low-Level Authentication 288
+Arbitrary Shortcode Execution 1000000-4999999 Mid-Level Authentication 0
+Arbitrary Shortcode Execution 1000000-4999999 High-Level Authentication 0
+Arbitrary Shortcode Execution 5000000+ No Authentication 1440
+Arbitrary Shortcode Execution 5000000+ Low-Level Authentication 864
+Arbitrary Shortcode Execution 5000000+ Mid-Level Authentication 0
+Arbitrary Shortcode Execution 5000000+ High-Level Authentication 0
+Sensitive Information Disclosure <25 No Authentication 0
+Sensitive Information Disclosure <25 Low-Level Authentication 0
+Sensitive Information Disclosure <25 Mid-Level Authentication 0
+Sensitive Information Disclosure <25 High-Level Authentication 0
+Sensitive Information Disclosure 25-499 No Authentication 0
+Sensitive Information Disclosure 25-499 Low-Level Authentication 0
+Sensitive Information Disclosure 25-499 Mid-Level Authentication 0
+Sensitive Information Disclosure 25-499 High-Level Authentication 0
+Sensitive Information Disclosure 500-999 No Authentication 0
+Sensitive Information Disclosure 500-999 Low-Level Authentication 0
+Sensitive Information Disclosure 500-999 Mid-Level Authentication 0
+Sensitive Information Disclosure 500-999 High-Level Authentication 0
+Sensitive Information Disclosure 1000-4999 No Authentication 0
+Sensitive Information Disclosure 1000-4999 Low-Level Authentication 0
+Sensitive Information Disclosure 1000-4999 Mid-Level Authentication 0
+Sensitive Information Disclosure 1000-4999 High-Level Authentication 0
+Sensitive Information Disclosure 5000-9999 No Authentication 0
+Sensitive Information Disclosure 5000-9999 Low-Level Authentication 0
+Sensitive Information Disclosure 5000-9999 Mid-Level Authentication 0
+Sensitive Information Disclosure 5000-9999 High-Level Authentication 0
+Sensitive Information Disclosure 10000-14999 No Authentication 0
+Sensitive Information Disclosure 10000-14999 Low-Level Authentication 0
+Sensitive Information Disclosure 10000-14999 Mid-Level Authentication 0
+Sensitive Information Disclosure 10000-14999 High-Level Authentication 0
+Sensitive Information Disclosure 15000-29999 No Authentication 0
+Sensitive Information Disclosure 15000-29999 Low-Level Authentication 0
+Sensitive Information Disclosure 15000-29999 Mid-Level Authentication 0
+Sensitive Information Disclosure 15000-29999 High-Level Authentication 0
+Sensitive Information Disclosure 30000-49999 No Authentication 0
+Sensitive Information Disclosure 30000-49999 Low-Level Authentication 0
+Sensitive Information Disclosure 30000-49999 Mid-Level Authentication 0
+Sensitive Information Disclosure 30000-49999 High-Level Authentication 0
+Sensitive Information Disclosure 50000-99999 No Authentication 400
+Sensitive Information Disclosure 50000-99999 Low-Level Authentication 240
+Sensitive Information Disclosure 50000-99999 Mid-Level Authentication 30
+Sensitive Information Disclosure 50000-99999 High-Level Authentication 0
+Sensitive Information Disclosure 100000-499999 No Authentication 800
+Sensitive Information Disclosure 100000-499999 Low-Level Authentication 480
+Sensitive Information Disclosure 100000-499999 Mid-Level Authentication 60
+Sensitive Information Disclosure 100000-499999 High-Level Authentication 0
+Sensitive Information Disclosure 500000-999999 No Authentication 1600
+Sensitive Information Disclosure 500000-999999 Low-Level Authentication 960
+Sensitive Information Disclosure 500000-999999 Mid-Level Authentication 120
+Sensitive Information Disclosure 500000-999999 High-Level Authentication 0
+Sensitive Information Disclosure 1000000-4999999 No Authentication 2134
+Sensitive Information Disclosure 1000000-4999999 Low-Level Authentication 1280
+Sensitive Information Disclosure 1000000-4999999 Mid-Level Authentication 160
+Sensitive Information Disclosure 1000000-4999999 High-Level Authentication 0
+Sensitive Information Disclosure 5000000+ No Authentication 6400
+Sensitive Information Disclosure 5000000+ Low-Level Authentication 3840
+Sensitive Information Disclosure 5000000+ Mid-Level Authentication 480
+Sensitive Information Disclosure 5000000+ High-Level Authentication 0
+Basic Information Disclosure <25 No Authentication 0
+Basic Information Disclosure <25 Low-Level Authentication 0
+Basic Information Disclosure <25 Mid-Level Authentication 0
+Basic Information Disclosure <25 High-Level Authentication 0
+Basic Information Disclosure 25-499 No Authentication 0
+Basic Information Disclosure 25-499 Low-Level Authentication 0
+Basic Information Disclosure 25-499 Mid-Level Authentication 0
+Basic Information Disclosure 25-499 High-Level Authentication 0
+Basic Information Disclosure 500-999 No Authentication 0
+Basic Information Disclosure 500-999 Low-Level Authentication 0
+Basic Information Disclosure 500-999 Mid-Level Authentication 0
+Basic Information Disclosure 500-999 High-Level Authentication 0
+Basic Information Disclosure 1000-4999 No Authentication 0
+Basic Information Disclosure 1000-4999 Low-Level Authentication 0
+Basic Information Disclosure 1000-4999 Mid-Level Authentication 0
+Basic Information Disclosure 1000-4999 High-Level Authentication 0
+Basic Information Disclosure 5000-9999 No Authentication 0
+Basic Information Disclosure 5000-9999 Low-Level Authentication 0
+Basic Information Disclosure 5000-9999 Mid-Level Authentication 0
+Basic Information Disclosure 5000-9999 High-Level Authentication 0
+Basic Information Disclosure 10000-14999 No Authentication 0
+Basic Information Disclosure 10000-14999 Low-Level Authentication 0
+Basic Information Disclosure 10000-14999 Mid-Level Authentication 0
+Basic Information Disclosure 10000-14999 High-Level Authentication 0
+Basic Information Disclosure 15000-29999 No Authentication 0
+Basic Information Disclosure 15000-29999 Low-Level Authentication 0
+Basic Information Disclosure 15000-29999 Mid-Level Authentication 0
+Basic Information Disclosure 15000-29999 High-Level Authentication 0
+Basic Information Disclosure 30000-49999 No Authentication 0
+Basic Information Disclosure 30000-49999 Low-Level Authentication 0
+Basic Information Disclosure 30000-49999 Mid-Level Authentication 0
+Basic Information Disclosure 30000-49999 High-Level Authentication 0
+Basic Information Disclosure 50000-99999 No Authentication 90
+Basic Information Disclosure 50000-99999 Low-Level Authentication 54
+Basic Information Disclosure 50000-99999 Mid-Level Authentication 7
+Basic Information Disclosure 50000-99999 High-Level Authentication 0
+Basic Information Disclosure 100000-499999 No Authentication 180
+Basic Information Disclosure 100000-499999 Low-Level Authentication 108
+Basic Information Disclosure 100000-499999 Mid-Level Authentication 14
+Basic Information Disclosure 100000-499999 High-Level Authentication 0
+Basic Information Disclosure 500000-999999 No Authentication 360
+Basic Information Disclosure 500000-999999 Low-Level Authentication 216
+Basic Information Disclosure 500000-999999 Mid-Level Authentication 27
+Basic Information Disclosure 500000-999999 High-Level Authentication 0
+Basic Information Disclosure 1000000-4999999 No Authentication 480
+Basic Information Disclosure 1000000-4999999 Low-Level Authentication 288
+Basic Information Disclosure 1000000-4999999 Mid-Level Authentication 36
+Basic Information Disclosure 1000000-4999999 High-Level Authentication 0
+Basic Information Disclosure 5000000+ No Authentication 1440
+Basic Information Disclosure 5000000+ Low-Level Authentication 864
+Basic Information Disclosure 5000000+ Mid-Level Authentication 108
+Basic Information Disclosure 5000000+ High-Level Authentication 0
+Server-Side Request Forgery <25 No Authentication 0
+Server-Side Request Forgery <25 Low-Level Authentication 0
+Server-Side Request Forgery <25 Mid-Level Authentication 0
+Server-Side Request Forgery <25 High-Level Authentication 0
+Server-Side Request Forgery 25-499 No Authentication 0
+Server-Side Request Forgery 25-499 Low-Level Authentication 0
+Server-Side Request Forgery 25-499 Mid-Level Authentication 0
+Server-Side Request Forgery 25-499 High-Level Authentication 0
+Server-Side Request Forgery 500-999 No Authentication 0
+Server-Side Request Forgery 500-999 Low-Level Authentication 0
+Server-Side Request Forgery 500-999 Mid-Level Authentication 0
+Server-Side Request Forgery 500-999 High-Level Authentication 0
+Server-Side Request Forgery 1000-4999 No Authentication 0
+Server-Side Request Forgery 1000-4999 Low-Level Authentication 0
+Server-Side Request Forgery 1000-4999 Mid-Level Authentication 0
+Server-Side Request Forgery 1000-4999 High-Level Authentication 0
+Server-Side Request Forgery 5000-9999 No Authentication 0
+Server-Side Request Forgery 5000-9999 Low-Level Authentication 0
+Server-Side Request Forgery 5000-9999 Mid-Level Authentication 0
+Server-Side Request Forgery 5000-9999 High-Level Authentication 0
+Server-Side Request Forgery 10000-14999 No Authentication 0
+Server-Side Request Forgery 10000-14999 Low-Level Authentication 0
+Server-Side Request Forgery 10000-14999 Mid-Level Authentication 0
+Server-Side Request Forgery 10000-14999 High-Level Authentication 0
+Server-Side Request Forgery 15000-29999 No Authentication 0
+Server-Side Request Forgery 15000-29999 Low-Level Authentication 0
+Server-Side Request Forgery 15000-29999 Mid-Level Authentication 0
+Server-Side Request Forgery 15000-29999 High-Level Authentication 0
+Server-Side Request Forgery 30000-49999 No Authentication 0
+Server-Side Request Forgery 30000-49999 Low-Level Authentication 0
+Server-Side Request Forgery 30000-49999 Mid-Level Authentication 0
+Server-Side Request Forgery 30000-49999 High-Level Authentication 0
+Server-Side Request Forgery 50000-99999 No Authentication 90
+Server-Side Request Forgery 50000-99999 Low-Level Authentication 54
+Server-Side Request Forgery 50000-99999 Mid-Level Authentication 7
+Server-Side Request Forgery 50000-99999 High-Level Authentication 0
+Server-Side Request Forgery 100000-499999 No Authentication 180
+Server-Side Request Forgery 100000-499999 Low-Level Authentication 108
+Server-Side Request Forgery 100000-499999 Mid-Level Authentication 14
+Server-Side Request Forgery 100000-499999 High-Level Authentication 0
+Server-Side Request Forgery 500000-999999 No Authentication 360
+Server-Side Request Forgery 500000-999999 Low-Level Authentication 216
+Server-Side Request Forgery 500000-999999 Mid-Level Authentication 27
+Server-Side Request Forgery 500000-999999 High-Level Authentication 0
+Server-Side Request Forgery 1000000-4999999 No Authentication 480
+Server-Side Request Forgery 1000000-4999999 Low-Level Authentication 288
+Server-Side Request Forgery 1000000-4999999 Mid-Level Authentication 36
+Server-Side Request Forgery 1000000-4999999 High-Level Authentication 0
+Server-Side Request Forgery 5000000+ No Authentication 1440
+Server-Side Request Forgery 5000000+ Low-Level Authentication 864
+Server-Side Request Forgery 5000000+ Mid-Level Authentication 108
+Server-Side Request Forgery 5000000+ High-Level Authentication 0
+PHP Object Injection w/o Gadget <25 No Authentication 0
+PHP Object Injection w/o Gadget <25 Low-Level Authentication 0
+PHP Object Injection w/o Gadget <25 Mid-Level Authentication 0
+PHP Object Injection w/o Gadget <25 High-Level Authentication 0
+PHP Object Injection w/o Gadget 25-499 No Authentication 0
+PHP Object Injection w/o Gadget 25-499 Low-Level Authentication 0
+PHP Object Injection w/o Gadget 25-499 Mid-Level Authentication 0
+PHP Object Injection w/o Gadget 25-499 High-Level Authentication 0
+PHP Object Injection w/o Gadget 500-999 No Authentication 0
+PHP Object Injection w/o Gadget 500-999 Low-Level Authentication 0
+PHP Object Injection w/o Gadget 500-999 Mid-Level Authentication 0
+PHP Object Injection w/o Gadget 500-999 High-Level Authentication 0
+PHP Object Injection w/o Gadget 1000-4999 No Authentication 0
+PHP Object Injection w/o Gadget 1000-4999 Low-Level Authentication 0
+PHP Object Injection w/o Gadget 1000-4999 Mid-Level Authentication 0
+PHP Object Injection w/o Gadget 1000-4999 High-Level Authentication 0
+PHP Object Injection w/o Gadget 5000-9999 No Authentication 0
+PHP Object Injection w/o Gadget 5000-9999 Low-Level Authentication 0
+PHP Object Injection w/o Gadget 5000-9999 Mid-Level Authentication 0
+PHP Object Injection w/o Gadget 5000-9999 High-Level Authentication 0
+PHP Object Injection w/o Gadget 10000-14999 No Authentication 0
+PHP Object Injection w/o Gadget 10000-14999 Low-Level Authentication 0
+PHP Object Injection w/o Gadget 10000-14999 Mid-Level Authentication 0
+PHP Object Injection w/o Gadget 10000-14999 High-Level Authentication 0
+PHP Object Injection w/o Gadget 15000-29999 No Authentication 0
+PHP Object Injection w/o Gadget 15000-29999 Low-Level Authentication 0
+PHP Object Injection w/o Gadget 15000-29999 Mid-Level Authentication 0
+PHP Object Injection w/o Gadget 15000-29999 High-Level Authentication 0
+PHP Object Injection w/o Gadget 30000-49999 No Authentication 0
+PHP Object Injection w/o Gadget 30000-49999 Low-Level Authentication 0
+PHP Object Injection w/o Gadget 30000-49999 Mid-Level Authentication 0
+PHP Object Injection w/o Gadget 30000-49999 High-Level Authentication 0
+PHP Object Injection w/o Gadget 50000-99999 No Authentication 120
+PHP Object Injection w/o Gadget 50000-99999 Low-Level Authentication 72
+PHP Object Injection w/o Gadget 50000-99999 Mid-Level Authentication 9
+PHP Object Injection w/o Gadget 50000-99999 High-Level Authentication 0
+PHP Object Injection w/o Gadget 100000-499999 No Authentication 240
+PHP Object Injection w/o Gadget 100000-499999 Low-Level Authentication 144
+PHP Object Injection w/o Gadget 100000-499999 Mid-Level Authentication 18
+PHP Object Injection w/o Gadget 100000-499999 High-Level Authentication 0
+PHP Object Injection w/o Gadget 500000-999999 No Authentication 480
+PHP Object Injection w/o Gadget 500000-999999 Low-Level Authentication 288
+PHP Object Injection w/o Gadget 500000-999999 Mid-Level Authentication 36
+PHP Object Injection w/o Gadget 500000-999999 High-Level Authentication 0
+PHP Object Injection w/o Gadget 1000000-4999999 No Authentication 640
+PHP Object Injection w/o Gadget 1000000-4999999 Low-Level Authentication 384
+PHP Object Injection w/o Gadget 1000000-4999999 Mid-Level Authentication 48
+PHP Object Injection w/o Gadget 1000000-4999999 High-Level Authentication 0
+PHP Object Injection w/o Gadget 5000000+ No Authentication 1920
+PHP Object Injection w/o Gadget 5000000+ Low-Level Authentication 1152
+PHP Object Injection w/o Gadget 5000000+ Mid-Level Authentication 144
+PHP Object Injection w/o Gadget 5000000+ High-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor <25 No Authentication 0
+Intentional Backdoors Accessible by Threat Actor <25 Low-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor <25 Mid-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor <25 High-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 25-499 No Authentication 0
+Intentional Backdoors Accessible by Threat Actor 25-499 Low-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 25-499 Mid-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 25-499 High-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 500-999 No Authentication 0
+Intentional Backdoors Accessible by Threat Actor 500-999 Low-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 500-999 Mid-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 500-999 High-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 1000-4999 No Authentication 0
+Intentional Backdoors Accessible by Threat Actor 1000-4999 Low-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 1000-4999 Mid-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 1000-4999 High-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 5000-9999 No Authentication 0
+Intentional Backdoors Accessible by Threat Actor 5000-9999 Low-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 5000-9999 Mid-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 5000-9999 High-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 10000-14999 No Authentication 0
+Intentional Backdoors Accessible by Threat Actor 10000-14999 Low-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 10000-14999 Mid-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 10000-14999 High-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 15000-29999 No Authentication 0
+Intentional Backdoors Accessible by Threat Actor 15000-29999 Low-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 15000-29999 Mid-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 15000-29999 High-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 30000-49999 No Authentication 0
+Intentional Backdoors Accessible by Threat Actor 30000-49999 Low-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 30000-49999 Mid-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 30000-49999 High-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 50000-99999 No Authentication 960
+Intentional Backdoors Accessible by Threat Actor 50000-99999 Low-Level Authentication 576
+Intentional Backdoors Accessible by Threat Actor 50000-99999 Mid-Level Authentication 72
+Intentional Backdoors Accessible by Threat Actor 50000-99999 High-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 100000-499999 No Authentication 1920
+Intentional Backdoors Accessible by Threat Actor 100000-499999 Low-Level Authentication 1152
+Intentional Backdoors Accessible by Threat Actor 100000-499999 Mid-Level Authentication 144
+Intentional Backdoors Accessible by Threat Actor 100000-499999 High-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 500000-999999 No Authentication 3840
+Intentional Backdoors Accessible by Threat Actor 500000-999999 Low-Level Authentication 2304
+Intentional Backdoors Accessible by Threat Actor 500000-999999 Mid-Level Authentication 288
+Intentional Backdoors Accessible by Threat Actor 500000-999999 High-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 1000000-4999999 No Authentication 5120
+Intentional Backdoors Accessible by Threat Actor 1000000-4999999 Low-Level Authentication 3072
+Intentional Backdoors Accessible by Threat Actor 1000000-4999999 Mid-Level Authentication 384
+Intentional Backdoors Accessible by Threat Actor 1000000-4999999 High-Level Authentication 0
+Intentional Backdoors Accessible by Threat Actor 5000000+ No Authentication 15360
+Intentional Backdoors Accessible by Threat Actor 5000000+ Low-Level Authentication 9216
+Intentional Backdoors Accessible by Threat Actor 5000000+ Mid-Level Authentication 1152
+Intentional Backdoors Accessible by Threat Actor 5000000+ High-Level Authentication 0
+IP Spoofing <25 No Authentication 0
+IP Spoofing <25 Low-Level Authentication 0
+IP Spoofing <25 Mid-Level Authentication 0
+IP Spoofing <25 High-Level Authentication 0
+IP Spoofing 25-499 No Authentication 0
+IP Spoofing 25-499 Low-Level Authentication 0
+IP Spoofing 25-499 Mid-Level Authentication 0
+IP Spoofing 25-499 High-Level Authentication 0
+IP Spoofing 500-999 No Authentication 0
+IP Spoofing 500-999 Low-Level Authentication 0
+IP Spoofing 500-999 Mid-Level Authentication 0
+IP Spoofing 500-999 High-Level Authentication 0
+IP Spoofing 1000-4999 No Authentication 0
+IP Spoofing 1000-4999 Low-Level Authentication 0
+IP Spoofing 1000-4999 Mid-Level Authentication 0
+IP Spoofing 1000-4999 High-Level Authentication 0
+IP Spoofing 5000-9999 No Authentication 0
+IP Spoofing 5000-9999 Low-Level Authentication 0
+IP Spoofing 5000-9999 Mid-Level Authentication 0
+IP Spoofing 5000-9999 High-Level Authentication 0
+IP Spoofing 10000-14999 No Authentication 0
+IP Spoofing 10000-14999 Low-Level Authentication 0
+IP Spoofing 10000-14999 Mid-Level Authentication 0
+IP Spoofing 10000-14999 High-Level Authentication 0
+IP Spoofing 15000-29999 No Authentication 0
+IP Spoofing 15000-29999 Low-Level Authentication 0
+IP Spoofing 15000-29999 Mid-Level Authentication 0
+IP Spoofing 15000-29999 High-Level Authentication 0
+IP Spoofing 30000-49999 No Authentication 0
+IP Spoofing 30000-49999 Low-Level Authentication 0
+IP Spoofing 30000-49999 Mid-Level Authentication 0
+IP Spoofing 30000-49999 High-Level Authentication 0
+IP Spoofing 50000-99999 No Authentication 60
+IP Spoofing 50000-99999 Low-Level Authentication 36
+IP Spoofing 50000-99999 Mid-Level Authentication 0
+IP Spoofing 50000-99999 High-Level Authentication 0
+IP Spoofing 100000-499999 No Authentication 120
+IP Spoofing 100000-499999 Low-Level Authentication 72
+IP Spoofing 100000-499999 Mid-Level Authentication 9
+IP Spoofing 100000-499999 High-Level Authentication 0
+IP Spoofing 500000-999999 No Authentication 240
+IP Spoofing 500000-999999 Low-Level Authentication 144
+IP Spoofing 500000-999999 Mid-Level Authentication 18
+IP Spoofing 500000-999999 High-Level Authentication 0
+IP Spoofing 1000000-4999999 No Authentication 320
+IP Spoofing 1000000-4999999 Low-Level Authentication 192
+IP Spoofing 1000000-4999999 Mid-Level Authentication 24
+IP Spoofing 1000000-4999999 High-Level Authentication 0
+IP Spoofing 5000000+ No Authentication 960
+IP Spoofing 5000000+ Low-Level Authentication 576
+IP Spoofing 5000000+ Mid-Level Authentication 72
+IP Spoofing 5000000+ High-Level Authentication 0
